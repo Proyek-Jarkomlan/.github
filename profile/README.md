@@ -21,11 +21,11 @@
 
 | **No** | **Project**                        | **Repository Link**                                  |
 |--------|------------------------------------|-----------------------------------------------------|
-| 1️⃣    | Static Routing                     | [static-routing](https://github.com/yourusername/static-routing) |
-| 2️⃣    | Dynamic Routing                    | [dynamic-routing](https://github.com/yourusername/dynamic-routing) |
-| 3️⃣    | Intra Domain Routing               | [intra-domain-routing](https://github.com/yourusername/intra-domain-routing) |
-| 4️⃣    | Inter Domain Routing               | [inter-domain-routing](https://github.com/yourusername/inter-domain-routing) |
-| 5️⃣    | BGP Routing                        | [bgp-routing](https://github.com/yourusername/bgp-routing) |
+| 1️⃣    | Static Routing                     | [static-routing](https://github.com/Proyek-Jarkomlan/StaticRouting) |
+| 2️⃣    | Dynamic Routing                    | [dynamic-routing](https://github.com/Proyek-Jarkomlan/DynamicRouting) |
+| 3️⃣    | Intra Domain Routing               | [intra-domain-routing](https://github.com/Proyek-Jarkomlan/IntraDomainRouting) |
+| 4️⃣    | Inter Domain Routing               | [inter-domain-routing](https://github.com/Proyek-Jarkomlan/InterDomainRouting) |
+| 5️⃣    | BGP Routing                        | [bgp-routing](https://github.com/Proyek-Jarkomlan/BGPRouting) |
 
 ---
 
