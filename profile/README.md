@@ -9,11 +9,11 @@
 
 ## 🧑‍🤝‍🧑 **Team Members**
 
-| Name                              | NIM Mahasiswa      |
-|-----------------------------------|--------------------|
-| [Ade Arya Dwi Syahputra](#)       | 215150207111002    |
-| [Farid Muzaki](#)                 | 215150207111044    |
-| [Muhammad Dzakwan Bintang L](#)   | 215150201111038    |
+| Name                                     | NIM Mahasiswa      |
+|------------------------------------------|--------------------|
+| [Ade Arya Dwi Syahputra](#)              | 215150207111002    |
+| [Farid Muzaki](#)                        | 215150207111044    |
+| [Muhammad Dzakwan Bintang Lazuardi](#)   | 215150201111038    |
 
 ---
 
